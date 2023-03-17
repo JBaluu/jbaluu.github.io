@@ -27,6 +27,7 @@ Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which p
 
 Hyde includes some customizable options, typically applied via classes on the `<body>` element.
 
+This is new line in main..
 
 ### Sidebar menu
 
